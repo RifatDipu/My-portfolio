@@ -15,10 +15,10 @@ h1{
 {
     width: 50%;
     margin-left: 15%;
+    padding-top: 10%;
 }
 section{
-    height: 500px;
-    padding-bottom: 150px;
+    height: 400px;
     display: flex;
 }
 .imgresize
@@ -30,7 +30,9 @@ margin-bottom: 5%;
 
 }
 body{
+
     font-family: 'Noto Sans', sans-serif;
+    margin: 0px;
 }
 .hireme
 {
@@ -48,8 +50,23 @@ text-decoration: none;
     background-repeat: no-repeat;
 }
 .secondhalf{
+    height: 500px;
+    padding-bottom: 150px;
+    display: flex;
 
-    display: inline-flexbox;
+}
+.half-width1{
+    width: 50%;
+    padding-right: 5%;
+    margin-left: 3%;
+    padding-top: 5%;
+
+}
+.half-width1 img{
+    width: 60%;
+    padding-left: 8%;
+    margin-left:15% ;
+    padding-bottom: 10%;
 
 }
 
