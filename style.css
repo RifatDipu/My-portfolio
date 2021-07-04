@@ -1,5 +1,5 @@
 .name{
-    color: brown;
+    color: coral;
 }
 h1{
     font-family: 'Oswald', sans-serif;
@@ -7,7 +7,7 @@ h1{
 .half-width
 {
    width:50%;
-   margin-left:  2%;
+   margin-left: 5%;
    padding-left: 3%;
 
 }
@@ -44,7 +44,12 @@ text-decoration: none;
 }
 .topbanner
 {
- background-image: url("images/top-banner.png");
+    background-image: url("images/top-banner.png");
     background-repeat: no-repeat;
+}
+.secondhalf{
+
+    display: inline-flexbox;
+
 }
 
