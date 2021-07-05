@@ -111,10 +111,14 @@ footer p
 border-image: linear-gradient(coral,green);
 border-image-slice:1;
 border-left: 5px solid ;
+margin-left: 5%;
+padding: 2%;
 }
 #MTCNA
 {
 border-image: linear-gradient(coral,green);
 border-image-slice:1;
 border-left: 5px solid ;
+margin-right: 5%;
+padding: 2%;
 }
