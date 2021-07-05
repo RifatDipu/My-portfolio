@@ -106,3 +106,15 @@ footer p
 .exp{
     color: coral;
 }
+#CCNA
+{
+border-image: linear-gradient(coral,green);
+border-image-slice:1;
+border-left: 5px solid ;
+}
+#MTCNA
+{
+border-image: linear-gradient(coral,green);
+border-image-slice:1;
+border-left: 5px solid ;
+}
