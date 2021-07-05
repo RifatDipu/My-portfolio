@@ -42,15 +42,13 @@ body{
     font-family: 'Teko', sans-serif;
     margin: 0px;
 }
-.hireme
-{
-background-image: linear-gradient(#790931,#020024);
-color: white;
-padding: 10px 40px;
-border-radius: 5px;  
-margin-top: 3%; 
-text-decoration: none;
-
+.anchor-button{
+    text-decoration: none;
+    background: linear-gradient(45deg, rgb(240, 75, 11), rgb(255, 71, 141));
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: black;
+    font-weight: 700;
 }
 .topbanner
 {
@@ -76,10 +74,10 @@ text-decoration: none;
 
 }
 .half-width1 img{
-    width: 70%;
+    width: 80%;
     height: 70%;
     padding-left: 8%;
-    margin-left:15% ;
+    margin-left:10% ;
     padding-bottom: 10%;
 
 }
